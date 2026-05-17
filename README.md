@@ -17,4 +17,4 @@ This project is an interactive **Sales & Revenue Analysis Dashboard** built usin
 ## 📂 Files in this Repository
 * `SuperStore_Analysis.pbix` - Power BI Dashboard
 * `SuperStoreOrders.csv` - Dataset
-* `Screenshot.png - ScreenChat
+* `Screenshot.png`- ScreenChat
