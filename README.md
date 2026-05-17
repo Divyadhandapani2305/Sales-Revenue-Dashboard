@@ -5,7 +5,7 @@ This project is an interactive **Sales & Revenue Analysis Dashboard** built usin
 
 ## 🛠️ Tech Stack
 * **Tool:** Power BI
-* **Data Source:** Global SuperStore Dataset
+* **Dataset:** SuperStoreOrder.csv 
 
 ## 📊 Key Highlights from Dashboard
 * **Total Sales:** 12.64M
